@@ -1,0 +1,43 @@
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.exe.config
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.exe
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.pdb
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\EntityFramework.dll
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\Guna.UI2.dll
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\DevComponents.DotNetBar2.xml
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\EntityFramework.xml
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.csproj.AssemblyReference.cache
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.csproj.SuggestedBindingRedirects.cache
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.Form1.resources
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.Properties.Resources.resources
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.csproj.GenerateResource.cache
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.csproj.CoreCompileInputs.cache
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.exe
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.pdb
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.exe.manifest
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.application
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.exe.manifest
+C:\Users\J. Alizadeh\source\repos\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.application
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.exe.config
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.exe.manifest
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.application
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.exe
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\ADD_CUSTOMER.pdb
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\EntityFramework.dll
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\EntityFramework.SqlServer.dll
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\Guna.UI2.dll
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\DevComponents.DotNetBar2.xml
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\EntityFramework.xml
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\bin\Release\EntityFramework.SqlServer.xml
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.csproj.AssemblyReference.cache
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.csproj.SuggestedBindingRedirects.cache
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.Form1.resources
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.Properties.Resources.resources
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.csproj.GenerateResource.cache
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.csproj.CoreCompileInputs.cache
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.exe.manifest
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.application
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.exe
+D:\C#\ADD_CUSTOMER\ADD_CUSTOMER\obj\Release\ADD_CUSTOMER.pdb
